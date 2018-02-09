@@ -1,1 +1,1 @@
-# Visual-Anomaly-Detector
+# Visual Anomaly Detector
